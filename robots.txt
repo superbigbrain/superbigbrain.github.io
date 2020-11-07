@@ -1,1 +1,2 @@
-User-agent: *
+User-Agent: *
+Sitemap: http://superbigbrain.com/sitemap.xml
