@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss
+    version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
   <channel>
     <title>Big Brain Ideas</title>
     <link>http://superbigbrain.com/</link>
     <description>Recent content on Big Brain Ideas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://superbigbrain.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 07 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://superbigbrain.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Read a Book, Chapter 7: X-Raying a Book</title>
       <link>http://superbigbrain.com/how-to-read-a-book-chapter-7-x-raying-a-book/</link>
@@ -18,6 +18,116 @@
       
       <guid>http://superbigbrain.com/how-to-read-a-book-chapter-7-x-raying-a-book/</guid>
       <description>A common theme in How to Read a Book is understanding what a book is about. Adler continues building on this theme in X-Raying a Book by suggesting that we summarize the book we&amp;rsquo;re reading as briefly as possible and write our own outline for the book. Adler&amp;rsquo;s argument is that these tasks demonstrate your understanding of the logical structure of the book, which is a prerequisite for the reading skills that come later in How to Read a Book.</description>
+      <content:encoded>&lt;p&gt;A common theme in &lt;em&gt;How to Read a Book&lt;/em&gt; is understanding what a book is about.
+Adler continues building on this theme in &lt;em&gt;X-Raying a Book&lt;/em&gt; by suggesting that
+we summarize the book we&amp;rsquo;re reading as briefly as possible and write our own
+outline for the book. Adler&amp;rsquo;s argument is that these tasks demonstrate your
+understanding of the logical structure of the book, which is a prerequisite for
+the reading skills that come later in &lt;em&gt;How to Read a Book&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;terminology&#34;&gt;Terminology&lt;/h2&gt;
+&lt;h3 id=&#34;logical-structure-vs-physical-structure&#34;&gt;Logical Structure vs. Physical Structure&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ll refer to a book&amp;rsquo;s logical or physical structure several times in this
+post, so I thought it would be a good idea to make sure we&amp;rsquo;re on the same page
+about what that means.&lt;/p&gt;
+&lt;p&gt;A book&amp;rsquo;s &lt;em&gt;physical&lt;/em&gt; structure is the parts, chapters, and chapter sections.
+Each piece of a books physical structure usually begins with a title and can be
+found in the table of contents (although chapter sections may not be listed).&lt;/p&gt;
+&lt;p&gt;A book&amp;rsquo;s &lt;em&gt;logical&lt;/em&gt; structure is the set of common themes, key ideas, arguments,
+and supporting evidence that makes up the entire book. Often the logical
+structure closely follows the physical structure, but not always. Sometimes an
+argument begins in one chapter and is finished in another. Sometimes a common
+theme is brought up in seemingly random places throughout the book.&lt;/p&gt;
+&lt;p&gt;In the same way that a book&amp;rsquo;s physical structure is hierarchical — parts have
+chapters and chapters have sections — so too is a book&amp;rsquo;s logical structure.
+Common themes are made up of a set of key ideas. Each key idea is made up of a
+set of arguments, and each argument is backed up by one or more pieces of
+supporting evidence.&lt;/p&gt;
+&lt;h2 id=&#34;key-ideas&#34;&gt;Key Ideas&lt;/h2&gt;
+&lt;h3 id=&#34;summarize-the-work&#34;&gt;Summarize the Work&lt;/h3&gt;
+&lt;p&gt;If you understand what you&amp;rsquo;re reading, you should summarize it in a few
+sentences. As an approximation, the more comfortable you find this task, the
+better your understanding of the book.&lt;/p&gt;
+&lt;p&gt;Our goal is to understand the logical structure of the book. What arguments is
+the author making? How are these arguments compiled into a set of key ideas?
+Adler talks about finding the &amp;ldquo;unity,&amp;rdquo; the single thread of plot that permeates
+the entire work. This is what we want to identify and describe in our summary.&lt;/p&gt;
+&lt;p&gt;Another exercise you can try is summarizing the work at the different levels of
+hierarchy. What is the book about as a whole? What is each common theme about?
+What is each key idea about?&lt;/p&gt;
+&lt;h3 id=&#34;outline-the-work&#34;&gt;Outline the Work&lt;/h3&gt;
+&lt;p&gt;You may be able to guess the logical structure of a book, but that doesn&amp;rsquo;t mean
+you understand it. When you guess, you make assumptions, and assumptions often
+turn out to be wrong. By explicitly outlining the book, you remove those
+assumptions and focus on what the author is saying instead of what you
+think the author is saying.&lt;/p&gt;
+&lt;p&gt;One way to outline a book looks like this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Common Theme
+&lt;ul&gt;
+&lt;li&gt;Key Idea 1
+&lt;ul&gt;
+&lt;li&gt;Argument 1
+&lt;ul&gt;
+&lt;li&gt;Evidence 1&lt;/li&gt;
+&lt;li&gt;Evidence 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Argument 2
+&lt;ul&gt;
+&lt;li&gt;Evidence 1&lt;/li&gt;
+&lt;li&gt;Evidence 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Key Idea 2
+&lt;ul&gt;
+&lt;li&gt;Argument 1
+&lt;ul&gt;
+&lt;li&gt;Evidence 1&lt;/li&gt;
+&lt;li&gt;Evidence 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Argument 2
+&lt;ul&gt;
+&lt;li&gt;Evidence 1&lt;/li&gt;
+&lt;li&gt;Evidence 2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Repeat this structure for each common theme.&lt;/p&gt;
+&lt;p&gt;Outlining is immensely time-consuming, so the amount of detail in the outline
+should be proportional to the book&amp;rsquo;s importance and the value you expect
+to get from it. If a book is more important or you think a more detailed
+outline will yield more value, then go for it.  If the work is less important
+or a simple outline will get you most of the value, then keep it simple.&lt;/p&gt;
+&lt;p&gt;Outlining naturally captures the different levels of hierarchy in a book, so no
+additional exercise is needed on that front.&lt;/p&gt;
+&lt;h2 id=&#34;takeaway&#34;&gt;Takeaway&lt;/h2&gt;
+&lt;p&gt;I thought this chapter was great and full of fantastic advice.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s what I&amp;rsquo;m taking away:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understanding a book&amp;rsquo;s logical structure is crucial because it allows you to
+see how the author build on their knowledge to arrive at a certain
+conclusion.&lt;/li&gt;
+&lt;li&gt;The ability to summarize a book at different levels of hierarchy is a good
+approximation for how well you understand the book&amp;rsquo;s logical structure.&lt;/li&gt;
+&lt;li&gt;Writing your own outline of a book helps removes assumptions about what the
+author is saying and cements the logical structure of the book in your mind.&lt;/li&gt;
+&lt;li&gt;The physical structure and logical structure of a book are not always the
+same. When reading for understanding, we care more about the logical
+structure.&lt;/li&gt;
+&lt;li&gt;Writers must also be able to identify the unity and structure in their own
+work. If the writer of a book can&amp;rsquo;t establish those two things, how can they
+expect readers to?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;m always looking for second opinions on what I read. If you&amp;rsquo;ve got an
+alternative perspective, you can find me on the &lt;a href=&#34;https://twitter.com/jamesthinkshard&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
     </item>
     
     <item>
@@ -28,6 +138,67 @@
       <guid>http://superbigbrain.com/how-to-read-a-book-chapter-6-pigeonholing-a-book/</guid>
       <description>Key Ideas The primary argument of Chapter 6 is that you have to know what kind of book you&amp;rsquo;re reading to get the most out of it. Adler recommends classifying the book before you start reading. Is it fiction or non-fiction? Is it practical or theoretical?
 Fiction vs. Non-Fiction Books The idea here should be obvious. If you&amp;rsquo;re reading for entertainment, then go wild. Read whatever you want. But if you&amp;rsquo;re reading to learn about politics or science or history, it&amp;rsquo;s important to understand whether you&amp;rsquo;re reading something true or something made up.</description>
+      <content:encoded>&lt;h2 id=&#34;key-ideas&#34;&gt;Key Ideas&lt;/h2&gt;
+&lt;p&gt;The primary argument of Chapter 6 is that you have to know what kind of book
+you&amp;rsquo;re reading to get the most out of it. Adler recommends classifying the book
+before you start reading. Is it fiction or non-fiction? Is it practical or
+theoretical?&lt;/p&gt;
+&lt;h3 id=&#34;fiction-vs-non-fiction-books&#34;&gt;Fiction vs. Non-Fiction Books&lt;/h3&gt;
+&lt;p&gt;The idea here should be obvious. If you&amp;rsquo;re reading for entertainment, then go
+wild. Read whatever you want. But if you&amp;rsquo;re reading to learn about politics or
+science or history, it&amp;rsquo;s important to understand whether you&amp;rsquo;re reading
+something true or something made up.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s not to say that fiction doesn&amp;rsquo;t have its place in teaching us about
+politics or science or history, but we shouldn&amp;rsquo;t take what we read in a
+fictional book as fact.&lt;/p&gt;
+&lt;h3 id=&#34;practical-vs-theoretical-books&#34;&gt;Practical vs. Theoretical Books&lt;/h3&gt;
+&lt;p&gt;The key difference between &amp;ldquo;practical&amp;rdquo; and &amp;ldquo;theoretical,&amp;rdquo; in this sense, is
+summed up well in this quote:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Theoretical books teach you &lt;em&gt;that&lt;/em&gt; something is the case. Practical books
+teach you &lt;em&gt;how&lt;/em&gt; to do something you want to do or think you should do.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;For example, &lt;em&gt;How to Read a Book&lt;/em&gt; is a practical book. It tells you how to
+intelligently read a book and gives you many actions you can take to do so. On
+the other hand, The Origin of Species by Charles Darwin is theoretical. It lays
+out Darwin&amp;rsquo;s ideas about evolution and tells us what evolution is, but doesn&amp;rsquo;t
+tell us how to do evolution.&lt;/p&gt;
+&lt;h2 id=&#34;importance&#34;&gt;Importance&lt;/h2&gt;
+&lt;p&gt;I struggled with the importance of this chapter because there are really two
+ideas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s important to know what kind of book you&amp;rsquo;re reading.&lt;/li&gt;
+&lt;li&gt;Classifying the book will help you understand what kind of book you&amp;rsquo;re reading.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I agree with the former wholeheartedly, but I think for a different reason than
+the author does.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m afraid I have to disagree with the latter. Sure, you should know whether
+you&amp;rsquo;re reading fiction or non-fiction, but that&amp;rsquo;s obvious. And while I find the
+distinction between practical and theoretical books useful, I think it&amp;rsquo;s far
+less important than the author makes it out to be.&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s more important to me is that I have a list of questions that I want
+answers to and determine whether the book will answer those questions. If the
+book answers my questions, then I don&amp;rsquo;t care what kind of book it is.&lt;/p&gt;
+&lt;p&gt;I also believe that good questions will replace Adler&amp;rsquo;s classifications. A
+question like &amp;ldquo;Who was the 44th president of the United States?&amp;rdquo; can only be
+answered by a theoretical, non-fiction book. I&amp;rsquo;m using the &amp;ldquo;theoretical&amp;rdquo; and
+&amp;ldquo;non-fiction&amp;rdquo; descriptions for consistency, but this works along any dimension.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s why I agree that it&amp;rsquo;s important to know what kind of book you&amp;rsquo;re
+reading. Specifically, you must know whether the book is the type of book that
+can answer your questions.&lt;/p&gt;
+&lt;h2 id=&#34;takeaway&#34;&gt;Takeaway&lt;/h2&gt;
+&lt;p&gt;This chapter&amp;rsquo;s takeaway is a simple one: knowing what kind of book you&amp;rsquo;re
+reading and whether the book has answers to your questions is critical.&lt;/p&gt;
+&lt;p&gt;A question I had before starting to read &lt;em&gt;How to Read a Book&lt;/em&gt; was, &amp;ldquo;How can I
+read books more effectively?&amp;rdquo;. Skimming through the book told me that Adler had
+many suggestions on how to do that, so I knew there&amp;rsquo;s a good chance the book
+would answer my question.&lt;/p&gt;
+&lt;p&gt;Personally, I don&amp;rsquo;t think classifying books is worthwhile. The only thing that
+matters is that my questions are answered.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m interested in hearing other opinions on this. Do you disagree with my
+takeaways? Am I just being pedantic? Hit me up on &lt;a href=&#34;https://twitter.com/jamesthinkshard&#34;&gt;Twitter&lt;/a&gt;, and let&amp;rsquo;s
+talk.&lt;/p&gt;
+</content:encoded>
     </item>
     
     <item>
@@ -38,6 +209,32 @@ Fiction vs. Non-Fiction Books The idea here should be obvious. If you&amp;rsquo;
       <guid>http://superbigbrain.com/how-to-read-a-book-chapter-5-how-to-be-a-demanding-reader/</guid>
       <description>This will be a short one. How to Be a Demanding Reader is a short chapter, and I didn&amp;rsquo;t find many insights. It felt more like &amp;ldquo;some final thoughts before we talk about analytical reading&amp;rdquo; than anything else.
 Key Ideas The TL;DR of this chapter is that you will get the most out of a book when you have a conversation with it. A common theme we keep coming back to is that reading should generate questions, and your job is to find answers in the book, and that theme is present in this chapter.</description>
+      <content:encoded>&lt;p&gt;This will be a short one. &lt;em&gt;How to Be a Demanding Reader&lt;/em&gt; is a short chapter,
+and I didn&amp;rsquo;t find many insights. It felt more like &amp;ldquo;some final thoughts before
+we talk about analytical reading&amp;rdquo; than anything else.&lt;/p&gt;
+&lt;h2 id=&#34;key-ideas&#34;&gt;Key Ideas&lt;/h2&gt;
+&lt;p&gt;The &lt;em&gt;TL;DR&lt;/em&gt; of this chapter is that you will get the most out of a book when
+you have a conversation with it. A common theme we keep coming back to is that
+reading should generate questions, and your job is to find answers in the book,
+and that theme is present in this chapter.&lt;/p&gt;
+&lt;p&gt;Having a mental conversation with the book isn&amp;rsquo;t enough, though. You should be
+writing down your questions and answers. Writing helps us clarify and organize
+our thoughts, so your questions and answers should both be well-formed. Writing
+things down will also give you an artifact you can refer back to later that is
+more durable than your memory.&lt;/p&gt;
+&lt;p&gt;Finally, you must work on turning this into a habit. When you first start doing
+this, it will slow down your reading speed a lot. As you get more used to the
+process, it will become automatic, and you&amp;rsquo;ll regain some of the reading speed
+you lost.&lt;/p&gt;
+&lt;h2 id=&#34;importance&#34;&gt;Importance&lt;/h2&gt;
+&lt;p&gt;I don&amp;rsquo;t have much to say here because these are ideas that we&amp;rsquo;ve talked about a
+lot already. Ask the book questions and then answer them. Build a habit of
+doing that. These two things will make your reading astoundingly effective.
+You&amp;rsquo;ll remember and understand more.&lt;/p&gt;
+&lt;p&gt;Chapter 6 is the first chapter in Part 2 of &lt;em&gt;How to Read a Book&lt;/em&gt;. Part 2
+focuses on analytical reading, which is the part I&amp;rsquo;m most interested in. Stay
+tuned and check Twitter for updates.&lt;/p&gt;
+</content:encoded>
     </item>
     
     <item>
@@ -49,6 +246,207 @@ Key Ideas The TL;DR of this chapter is that you will get the most out of a book 
       <description>This post comes from an exercise I did to try Adler&amp;rsquo;s suggestions for systematically skim a book. I chose How to Take Smart Notes because it&amp;rsquo;s on the list of books I&amp;rsquo;m planning to read after finishing How to Read a Book.
 Suggestions Here&amp;rsquo;s a quick refresher on Adler&amp;rsquo;s suggestions for how to systematically skim a book:
  Look at the title page and, if the book has one, the preface.</description>
+      <content:encoded>&lt;p&gt;This post comes from an exercise I did to try Adler&amp;rsquo;s suggestions for
+systematically skim a book. I chose How to Take Smart Notes because it&amp;rsquo;s on the
+list of books I&amp;rsquo;m planning to read after finishing How to Read a Book.&lt;/p&gt;
+&lt;h2 id=&#34;suggestions&#34;&gt;Suggestions&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s a quick refresher on Adler&amp;rsquo;s suggestions for how to systematically skim
+a book:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Look at the title page and, if the book has one, the preface.&lt;/li&gt;
+&lt;li&gt;Study the table of contents.&lt;/li&gt;
+&lt;li&gt;Check the index.&lt;/li&gt;
+&lt;li&gt;Read the blurb on the dust cover.&lt;/li&gt;
+&lt;li&gt;Look at the summaries for each chapter that is pivotal to the book&amp;rsquo;s
+argument.&lt;/li&gt;
+&lt;li&gt;Turn the pages, dipping in here and there.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As I mentioned in &lt;a href=&#34;http://superbigbrain.com/how-to-read-a-book-chapter-4-the-second-level-of-reading-inspectional-reading/&#34;&gt;How to Read a Book, Chapter 4: The Second Level of Reading:
+Inspectional Reading&lt;/a&gt;, I&amp;rsquo;ve made a few changes to
+these to suit my personal preferences.&lt;/p&gt;
+&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;
+&lt;p&gt;I love the title of How to Read a Book because it&amp;rsquo;s clear what the book is
+about. The same goes for How to Take Smart Notes. It&amp;rsquo;s a book about how to take
+notes.&lt;/p&gt;
+&lt;p&gt;The book&amp;rsquo;s subtitle is One Simple Technique to Boost Writing, Learning and
+Thinking. I&amp;rsquo;m always wary of phrases like &amp;ldquo;One Simple Technique,&amp;rdquo; but I&amp;rsquo;ve
+decided to withhold judgment for now.&lt;/p&gt;
+&lt;h2 id=&#34;preface&#34;&gt;Preface&lt;/h2&gt;
+&lt;p&gt;The preface of How to Take Smart Notes was enlightening.&lt;/p&gt;
+&lt;p&gt;The problem the author is trying to solve is the idea that writing starts with
+a blank page. It doesn&amp;rsquo;t. The author&amp;rsquo;s point is that writing begins with the
+process of collecting and organizing notes. Once you&amp;rsquo;ve done that, the
+&amp;ldquo;writing&amp;rdquo; process is just organizing your notes into a coherent narrative.
+Editing a set of notes is much easier to do than starting with a blank page.&lt;/p&gt;
+&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;
+&lt;p&gt;The table of contents for How to Take Smart Notes doesn&amp;rsquo;t include much detail,
+so I didn&amp;rsquo;t get much useful information from it.&lt;/p&gt;
+&lt;p&gt;Ahrens broke the book into three parts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;The Four Underlying Principles&lt;/li&gt;
+&lt;li&gt;The Six Steps to Successful Writing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The introduction is what you&amp;rsquo;d expect: it sets the context for the rest of the
+book. The introduction usually doesn&amp;rsquo;t spend much time talking about the book&amp;rsquo;s
+central argument, so I didn&amp;rsquo;t pay much attention to it in the table of
+contents.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Four Underlying Principles are:&lt;/li&gt;
+&lt;li&gt;Writing Is the Only Thing That Matters&lt;/li&gt;
+&lt;li&gt;Simplicity is Paramount&lt;/li&gt;
+&lt;li&gt;Nobody Ever Starts From Scratch&lt;/li&gt;
+&lt;li&gt;Let the Work Carry You Forward&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are all clever catchphrases, and I generally agree with them as advice,
+but they don&amp;rsquo;t tell you anything about what you should expect from each
+chapter. And since the table of contents had so few details, there was no
+additional context outside the chapters&amp;rsquo; titles.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Six Steps to Successful Writing are:&lt;/li&gt;
+&lt;li&gt;Separate and Interlocking Tasks&lt;/li&gt;
+&lt;li&gt;Read for Understanding&lt;/li&gt;
+&lt;li&gt;Take Smart Notes&lt;/li&gt;
+&lt;li&gt;Develop Ideas&lt;/li&gt;
+&lt;li&gt;Share Your Insight&lt;/li&gt;
+&lt;li&gt;Make It a Habit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Again, all good advice. Reading for understanding is good. Taking smart notes
+is good. Developing ideas and sharing your insights are both good. But we still
+haven&amp;rsquo;t learned anything about how to take smart notes.&lt;/p&gt;
+&lt;p&gt;Overall I found the table of contents to be unuseful for this pre-read. I
+didn&amp;rsquo;t learn anything that helped me decide what the book is about or whether I
+should read it.&lt;/p&gt;
+&lt;h2 id=&#34;index&#34;&gt;Index&lt;/h2&gt;
+&lt;p&gt;The index of How to Take Smart Notes is a detailed version of the table of
+contents instead of a traditional index. I didn&amp;rsquo;t find it helpful in
+understanding what the book is about or whether I should read it.&lt;/p&gt;
+&lt;p&gt;A few things made the chapter on developing ideas sound interesting, but it
+still wasn&amp;rsquo;t informative.&lt;/p&gt;
+&lt;h2 id=&#34;blurb&#34;&gt;Blurb&lt;/h2&gt;
+&lt;p&gt;I bought the e-book version of How to Take Smart Notes, which doesn&amp;rsquo;t include a
+blurb. Instead, I used the description on Amazon. I figure it&amp;rsquo;s roughly the
+same as what you&amp;rsquo;d find on the book&amp;rsquo;s jacket.&lt;/p&gt;
+&lt;p&gt;I found this quote in the description:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The key to good and efficient writing lies in the intelligent organisation of
+ideas and notes. … Instead of wasting your time searching for notes, quotes
+or references, you can focus on what really counts: thinking, understanding
+and developing new ideas in writing.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The author is presumably talking about the organization system explained in the
+book. The description didn&amp;rsquo;t include any details about the organization system,
+but it&amp;rsquo;s good to know that there should be some concrete takeaway from the
+book.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;In the interest of brevity, I won&amp;rsquo;t include my full notes from each chapter&amp;rsquo;s
+summary. Instead, I&amp;rsquo;ll aggregate my notes for each part of the book. Remember
+that, even though Adler suggests identifying and focusing on the chapters
+critical to the author&amp;rsquo;s argument, I chose to read every chapter&amp;rsquo;s summary. The
+chapters in How to Take Smart Notes don&amp;rsquo;t have explicit summaries, so I read
+the first and last paragraphs (sometimes more, for context) of each chapter.&lt;/p&gt;
+&lt;h2 id=&#34;part-1-introduction&#34;&gt;Part 1: Introduction&lt;/h2&gt;
+&lt;p&gt;The main argument of the introduction is that you should have a note-taking
+system that is simple, reliable, and external to your brain. The goal is to
+offset the limitations of the mind, such as memory limitations.&lt;/p&gt;
+&lt;p&gt;When you systematically take notes, writing becomes more like editing. The
+benefit of starting from a solid set of notes is that it makes the writing
+process easier and faster.&lt;/p&gt;
+&lt;h2 id=&#34;part-2-the-four-underlying-principles&#34;&gt;Part 2: The Four Underlying Principles&lt;/h2&gt;
+&lt;p&gt;Ahrens makes several points in this part of the book, but they all revolve
+around an effective note-taking system&amp;rsquo;s principles.&lt;/p&gt;
+&lt;p&gt;One argument that I thought was interesting is that there is an alternative to
+the conventional wisdom of &amp;ldquo;writing starts with the idea.&amp;rdquo; Instead, focus on
+reading things that are currently interesting to you and take notes in the
+process.&lt;/p&gt;
+&lt;p&gt;Eventually, the collection of notes you built will tell you what to write.
+You&amp;rsquo;ll notice that you keep coming back to the same questions over and over
+again. That&amp;rsquo;s a useful heuristic that these questions might be worth going more
+in-depth on and writing about.&lt;/p&gt;
+&lt;p&gt;And focusing on what&amp;rsquo;s interesting to you right now will give you the juice to
+keep working every day. That&amp;rsquo;s important. If you want to learn, you have to put
+in the time. But time itself isn&amp;rsquo;t enough. You need to be using that time well
+and, to do that, you&amp;rsquo;ll need to enjoy the things you&amp;rsquo;re spending time on so
+that you can stay focused and engaged.&lt;/p&gt;
+&lt;p&gt;Another argument I liked was to pretend that writing is the only thing in the
+world that matters. Stop worrying about what you &amp;ldquo;should&amp;rdquo; learn and focus on
+learning what you need to know to move your writing forward. Come up with
+questions and then find the answers. This isn&amp;rsquo;t the first time this idea of a
+question-answer loop has come up for me, and it&amp;rsquo;s one that I&amp;rsquo;ve been practicing
+for a while now. I highly recommend trying it for yourself.&lt;/p&gt;
+&lt;p&gt;Finally, Ahrens points out that an effective note-taking system is simple.
+Simple systems are easier to understand and follow, and we don&amp;rsquo;t want to make
+using the system any more complicated than it needs to be.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We tend to think that big transformations have to start with an equally big
+idea. But more often than not, it is the simplicity of an idea that makes it
+so powerful.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;part-3-the-six-steps-of-successful-writing&#34;&gt;Part 3: The Six Steps of Successful Writing&lt;/h2&gt;
+&lt;p&gt;Looking at the notes I took for this part of the book, I&amp;rsquo;m struck by how often
+the notes don&amp;rsquo;t seem to align with the title of the chapter. That could result
+from building my own summaries instead of using ones provided by the author,
+but what I&amp;rsquo;m taking away is that this section of the book has many small tips
+that seem useful.&lt;/p&gt;
+&lt;p&gt;If you need a refresher, you can find the six steps in the &amp;ldquo;Table of Contents&amp;rdquo;
+section. I won&amp;rsquo;t repeat them here.&lt;/p&gt;
+&lt;p&gt;Here are some of the tips I found in part three:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multitasking is a false idol. It just doesn&amp;rsquo;t work. Each task deserves your
+full and undivided attention.&lt;/li&gt;
+&lt;li&gt;Focus on understanding the fundamental ideas of whatever you&amp;rsquo;re reading.&lt;/li&gt;
+&lt;li&gt;Keep an open mind. Don&amp;rsquo;t make judgments about a book until you&amp;rsquo;re done
+reading it and thinking about it.&lt;/li&gt;
+&lt;li&gt;Instead of writing so many words each day, try to take so many notes each
+day. Remember, writing starts with effective note-taking.&lt;/li&gt;
+&lt;li&gt;You should index your notes in some way. The author suggests the concept of a
+&amp;ldquo;slip-box,&amp;rdquo; which I don&amp;rsquo;t fully understand based on my inspectional reading.&lt;/li&gt;
+&lt;li&gt;You should link related notes together.&lt;/li&gt;
+&lt;li&gt;Ask yourself, &amp;ldquo;What is interesting about this?&amp;rdquo; and &amp;ldquo;What is so relevant
+about this that it is worth noting down?&amp;rdquo; while reading.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t fight being stuck. If you&amp;rsquo;re stuck on something, go work on something
+else for a while. Context switching is fine when the cost of context
+switching is lower than the cost of wasting time because you&amp;rsquo;re stuck.&lt;/li&gt;
+&lt;li&gt;Build the habit of writing down the most important and exciting aspects of
+what you read.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ahrens leaves us with this parting thought:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Watching others reading books and doing nothing other than underlining some
+sentences or making unsystematic notes that will end up nowhere will soon be
+a painful sight.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+&lt;p&gt;The goal of inspectional reading is two-fold:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand what the book is about.&lt;/li&gt;
+&lt;li&gt;Decide whether it&amp;rsquo;s worth reading.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As part of this exercise, I plan to read the book regardless of my thoughts on
+those two points. My goal is to come back to this post after reading the book
+and compare these notes to my thoughts after reading it. What was I right
+about? What was I wrong about? Ultimately, I want to calibrate my inspectional
+reading skills.&lt;/p&gt;
+&lt;p&gt;That said, here&amp;rsquo;s what I think:&lt;/p&gt;
+&lt;p&gt;What is the book about? At the most basic level, this book seems to be about
+learning a note-taking system that the author thinks will make your writing
+process more effective. While there are some ideas on what makes a note-taking
+system effective, my interpretation is that the author&amp;rsquo;s goal is to get you to
+learn their system and not teach you how to build your own.&lt;/p&gt;
+&lt;p&gt;Is this book worth reading? I think so. The book seems verbose, but I found
+some nuggets of wisdom that I believe will be beneficial even with an
+inspectional read. The real question is whether I will learn more by reading
+the entire book. Is there more to learn, or did my inspectional read give me
+the bulk of what I can take away from this book? I think the author has more to
+say and that I have more to learn, but, in the spirit of full disclosure, I&amp;rsquo;m
+on the fence about that belief.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;How to Take Smart Notes&lt;/em&gt; is the next book on my reading list after I finish
+&lt;em&gt;How to Read a Book&lt;/em&gt;, so expect to see results soon.&lt;/p&gt;
+&lt;p&gt;In the meantime, I hope this gave you more insight into what inspectional
+reading looks like and that you found it useful. I also hope you go out and buy
+a copy of &lt;a href=&#34;https://smile.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y/&#34;&gt;&lt;em&gt;How to Take Smart Notes&lt;/em&gt;&lt;/a&gt; so we can
+compare notes (yes, pun intended) on &lt;a href=&#34;https://twitter.com/jamesthinkshard&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
     </item>
     
     <item>
@@ -60,6 +458,148 @@ Suggestions Here&amp;rsquo;s a quick refresher on Adler&amp;rsquo;s suggestions 
       <description>First, you may notice that I skipped Chapter 3: The First Level of Reading: Elementary Reading. I skipped it because elementary reading is such a basic concept that I didn&amp;rsquo;t find anything insightful in the short chapter that talked about it. I figured our time would be better spent on more useful things.
 Key Ideas The two key ideas covered in Chapter 3 are systematic skimming and superficial reading.
 Systematic Skimming This makes up the bulk of my notes on the chapter because it&amp;rsquo;s less obvious than superficial reading.</description>
+      <content:encoded>&lt;p&gt;First, you may notice that I skipped Chapter 3: The First Level of Reading:
+Elementary Reading. I skipped it because elementary reading is such a basic
+concept that I didn&amp;rsquo;t find anything insightful in the short chapter that talked
+about it. I figured our time would be better spent on more useful things.&lt;/p&gt;
+&lt;h2 id=&#34;key-ideas&#34;&gt;Key Ideas&lt;/h2&gt;
+&lt;p&gt;The two key ideas covered in Chapter 3 are systematic skimming and superficial
+reading.&lt;/p&gt;
+&lt;h3 id=&#34;systematic-skimming&#34;&gt;Systematic Skimming&lt;/h3&gt;
+&lt;p&gt;This makes up the bulk of my notes on the chapter because it&amp;rsquo;s less obvious
+than superficial reading. The goal of systematic skimming is simple: quickly
+read through a book to (1) understand what the book is about and (2) whether
+it&amp;rsquo;s worth your time.&lt;/p&gt;
+&lt;p&gt;Adler has six suggestions for how to skim a book systematically:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Look at the title page and, if the book has one, the preface.&lt;/li&gt;
+&lt;li&gt;Study the table of contents.&lt;/li&gt;
+&lt;li&gt;Check the index.&lt;/li&gt;
+&lt;li&gt;Read the blurb on the dust cover.&lt;/li&gt;
+&lt;li&gt;Look at the summaries for each chapter that is pivotal to the book&amp;rsquo;s
+argument.&lt;/li&gt;
+&lt;li&gt;Turn the pages, dipping in here and there.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I found some suggestions more helpful than others. We&amp;rsquo;ll talk about each
+suggestion in turn, and then I&amp;rsquo;ll share my own plans for systematic skimming in
+the future. I&amp;rsquo;ll also refer to having tried each suggestion myself. More on
+that later.&lt;/p&gt;
+&lt;h4 id=&#34;look-at-the-title-page-and-if-the-book-has-one-the-preface&#34;&gt;Look at the title page and, if the book has one, the preface&lt;/h4&gt;
+&lt;p&gt;The title of some books can tell you a lot about the book itself. The book
+we&amp;rsquo;re talking about now is a good example: How to Read a Book: The Classic
+Guide to Intelligent Reading. This book is about how to read a book
+intelligently. Great. Simple.&lt;/p&gt;
+&lt;p&gt;The preface can also tell you a lot. It&amp;rsquo;s usually written by the author and
+provides a summary of the book&amp;rsquo;s goals, either explicitly or implicitly. I
+found reading the preface to be one of the most helpful suggestions in
+understanding what a book is about.&lt;/p&gt;
+&lt;h4 id=&#34;study-the-table-of-contents&#34;&gt;Study the table of contents&lt;/h4&gt;
+&lt;p&gt;This suggestion seemed really hit-or-miss to me, for the reason that Adler
+pointed out: tables of contents have become increasingly devoid of detail. In
+the books I looked at, the tables of contents were basically a list of pithy
+one-liners that didn&amp;rsquo;t tell you anything about what you could expect to learn
+from each chapter.&lt;/p&gt;
+&lt;p&gt;That said, I&amp;rsquo;ve come across books that have detailed tables of contents too.
+Any of the software books by &lt;a href=&#34;https://www.manning.com/catalog&#34;&gt;Manning&lt;/a&gt; come to mind. This suggestion
+is more helpful when the table of contents contains a lot of details.&lt;/p&gt;
+&lt;h4 id=&#34;check-the-index&#34;&gt;Check the index&lt;/h4&gt;
+&lt;p&gt;Again, I found this suggestion to be unhelpful. It may be the books I chose,
+but the index usually references such a diverse range of topics that
+identifying a key theme was either impossible or would take more time than I
+was willing to give it.&lt;/p&gt;
+&lt;p&gt;For example, the index of &lt;a href=&#34;https://smile.amazon.com/Writing-Learn-Write-Clearly-Subject-ebook/dp/B00BOQEBFE/&#34;&gt;Writing to Learn&lt;/a&gt; ranges from
+mathematics to philosophy to chemistry and so on. That makes sense given the
+wide range of topics talked about in the book, but it doesn&amp;rsquo;t help us
+understand that the point of the book is &amp;ldquo;writing is a good way to learn&amp;rdquo;.&lt;/p&gt;
+&lt;h4 id=&#34;read-the-blurb-on-the-dust-cover&#34;&gt;Read the blurb on the dust cover&lt;/h4&gt;
+&lt;p&gt;Not every book will have a dust cover, but you can usually find a blurb
+somewhere. Maybe it&amp;rsquo;s on the back of a paperback, or maybe it&amp;rsquo;s the description
+of the book on Amazon. Either way, this blurb usually serves two purposes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explain what the book is about.&lt;/li&gt;
+&lt;li&gt;Marketing hype.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We&amp;rsquo;re only concerned with figuring out what the book is about, so we want to
+look for the part of the blurb that serves the first purpose. Sometimes the two
+are mixed.&lt;/p&gt;
+&lt;p&gt;I found the blurbs helpful when boiling the book down into a single, short
+TL;DR. Other than that, the marketing hype got in the way of learning more.&lt;/p&gt;
+&lt;h4 id=&#34;look-at-the-summaries-for-each-chapter-pivotal-to-the-books-argument&#34;&gt;Look at the summaries for each chapter pivotal to the book&amp;rsquo;s argument&lt;/h4&gt;
+&lt;p&gt;I took a slightly different approach to this suggestion than the one Adler
+recommends. Instead of looking for chapters that seemed important to the book&amp;rsquo;s
+argument, I opted to read a summary of each chapter.&lt;/p&gt;
+&lt;p&gt;In the books I tried, the chapters didn&amp;rsquo;t have dedicated summaries, so I chose
+to read the first and last paragraphs and sometimes a bit more for context.&lt;/p&gt;
+&lt;p&gt;This suggestion was really time-consuming but enlightening. I discovered that,
+as I made my way through each chapter, I was able to see how each chapter
+played a role in the larger goal of the book. I plan to keep using this
+suggestion.&lt;/p&gt;
+&lt;p&gt;I also found that the notes I was taking for each chapter often weren&amp;rsquo;t what
+you&amp;rsquo;d expect based on the chapter&amp;rsquo;s title. I don&amp;rsquo;t think this is good or bad,
+but I found it interesting.&lt;/p&gt;
+&lt;h4 id=&#34;turn-the-pages-dipping-in-here-and-there&#34;&gt;Turn the pages, dipping in here and there&lt;/h4&gt;
+&lt;p&gt;I elected not to try this suggestion. After reading each chapter&amp;rsquo;s summary, I
+felt like I had a good understanding of what the book was about and whether it
+would serve my immediate needs. Your mileage may vary.&lt;/p&gt;
+&lt;h4 id=&#34;additional-suggestions&#34;&gt;Additional suggestions&lt;/h4&gt;
+&lt;p&gt;As mentioned above, I chose to read summaries of every chapter rather than only
+the chapters that seemed important to the book&amp;rsquo;s argument. I view this as a
+hedge against being wrong about which chapters are important. It takes a bit
+more time, but it felt worthwhile to me.&lt;/p&gt;
+&lt;p&gt;I also suggest looking at reviews on Amazon and Good Reads if you have the
+time. Personally, I ignore the 5-star reviews because they&amp;rsquo;ll say the book is
+great and the 1-star reviews because they&amp;rsquo;ll say the book is awful. I&amp;rsquo;m more
+interested in reviews that point out the perceived weaknesses of the book.
+3-star and 4-star reviews are good for this. I also ignore any reviews that
+talk about irrelevant things like &amp;ldquo;the book didn&amp;rsquo;t automatically download to my
+Kindle, and I had to wait like 15 seconds ZOMG.&amp;rdquo;&lt;/p&gt;
+&lt;h3 id=&#34;superficial-reading&#34;&gt;Superficial Reading&lt;/h3&gt;
+&lt;p&gt;A quote from Adler will sum this idea up quickly:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In tackling a difficult book for the first time, read it through without ever
+stopping to look up or ponder the things you do not understand right away.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;That&amp;rsquo;s all there is to it. If a book is difficult, you may need to read it more
+than once. Don&amp;rsquo;t worry about understanding everything on the first read. Each
+read will leave you with a better understanding than you had before.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested, &lt;a href=&#34;http://augmentingcognition.com/ltm.html&#34;&gt;Augmenting Long-term
+Memory&lt;/a&gt; is a good example of superficial reading
+in practice, specifically the parts where the author talks about reading the
+AlphaGo paper.&lt;/p&gt;
+&lt;h2 id=&#34;takeaway&#34;&gt;Takeaway&lt;/h2&gt;
+&lt;p&gt;This chapter gives us a system for effectively skimming through a book to
+decide what it&amp;rsquo;s about and whether it&amp;rsquo;s worth our time and some advice on
+handling books that are currently beyond our skill level.&lt;/p&gt;
+&lt;p&gt;These two skills seem useful in their own right, but I think their true utility
+will show up later when I get to the syntopical learning chapters, which makes
+sense. The more you read, the more opportunities you have to use these tools.&lt;/p&gt;
+&lt;p&gt;To systematically skim a book, try the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Read the title.&lt;/li&gt;
+&lt;li&gt;Read the blurb.&lt;/li&gt;
+&lt;li&gt;Read the preface.&lt;/li&gt;
+&lt;li&gt;Read the table of contents.&lt;/li&gt;
+&lt;li&gt;Read a summary of each chapter.&lt;/li&gt;
+&lt;li&gt;Read the last 3 pages of the main part of the book.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Remember that you have two goals:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand what the book is about.&lt;/li&gt;
+&lt;li&gt;Decide whether the book serves your immediate needs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Additionally, you can check out Amazon and Good Reads reviews for the book for
+some extra insight.&lt;/p&gt;
+&lt;p&gt;After reading this chapter, I decided to try inspectional reading out for
+myself on three books that I was planning to read after How to Read a Book:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://smile.amazon.com/How-Take-Smart-Notes-Nonfiction-ebook/dp/B06WVYW33Y/&#34;&gt;How to Take Smart Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://smile.amazon.com/Make-Stick-Peter-C-Brown-ebook/dp/B00JQ3FN7M/&#34;&gt;Make it Stick&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://smile.amazon.com/Writing-Learn-Write-Clearly-Subject-ebook/dp/B00BOQEBFE/&#34;&gt;Writing to Learn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;ll share my notes from this exercise for each book in the next few days.&lt;/p&gt;
+&lt;p&gt;As always, I&amp;rsquo;m happy to talk more about anything here. Hit me up on
+&lt;a href=&#34;https://twitter.com/jamesthinkshard&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
     </item>
     
     <item>
@@ -71,6 +611,161 @@ Systematic Skimming This makes up the bulk of my notes on the chapter because it
       <description>Key Ideas This was a short chapter, and it revolved around a single key idea: there are four reading levels. Each level serves a different purpose, but they all work together to provide a framework for reading.
 The four levels of reading are:
  Elementary Reading Inspectional Reading Analytical Reading Syntopical Reading  Level 1: Elementary Reading This is the simplest level of reading and what I think of when someone tells me they&amp;rsquo;ve read a book.</description>
+      <content:encoded>&lt;h2 id=&#34;key-ideas&#34;&gt;Key Ideas&lt;/h2&gt;
+&lt;p&gt;This was a short chapter, and it revolved around a single key idea: there are
+four reading levels. Each level serves a different purpose, but they all work
+together to provide a framework for reading.&lt;/p&gt;
+&lt;p&gt;The four levels of reading are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Elementary Reading&lt;/li&gt;
+&lt;li&gt;Inspectional Reading&lt;/li&gt;
+&lt;li&gt;Analytical Reading&lt;/li&gt;
+&lt;li&gt;Syntopical Reading&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;level-1-elementary-reading&#34;&gt;Level 1: Elementary Reading&lt;/h3&gt;
+&lt;p&gt;This is the simplest level of reading and what I think of when someone tells me
+they&amp;rsquo;ve read a book. I think of this level as &amp;ldquo;Mechanical Reading&amp;rdquo; What words
+are on the page? What does each word mean? What do the sentences constructed
+from each set of words mean?&lt;/p&gt;
+&lt;p&gt;There isn&amp;rsquo;t much to say about this level because it&amp;rsquo;s so basic. Elementary
+reading is important because the other levels can&amp;rsquo;t be achieved without it, but
+I don&amp;rsquo;t think talking about this level will yield anything insightful.&lt;/p&gt;
+&lt;p&gt;A quote from this chapter:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The child sees a collection of black marks on a white ground; what the marks
+say is, &amp;ldquo;The cat sat on the hat.&amp;rdquo; The first grader is not really concerned at
+this point with whether cats do sit on hats, or with what this implies about
+cats, hats, and the world. He is merely concerned with language as it is
+employed by the writer.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;level-2-inspectional-reading&#34;&gt;Level 2: Inspectional Reading&lt;/h3&gt;
+&lt;p&gt;The goal of inspectional reading is to systematically skim a book to understand
+it at a surface level. What is the book about? What is the structure of the
+book? What can you learn from the table of contents and the title and subtitles
+of each chapter?&lt;/p&gt;
+&lt;p&gt;Adler notes that a special emphasis on time characterizes inspectional reading:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Hence, another way to describe this level of reading is to say that its aim
+is to get the most out of a book within a given time — usually a relatively
+short time, and always (by definition) too short a time to get out of the
+book everything that can be gotten.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I was thinking about how this reading level could be useful to me, and the
+answer I came up with is that inspectional reading seems best suited for
+deciding whether a book is worth my time, given the opportunity cost of reading
+a book. If I read one book, I have less time to read another book. This is
+especially true given the intensity and effort required for level 3 reading.&lt;/p&gt;
+&lt;p&gt;It sounds like Adler may have other ideas about the utility of inspectional
+reading, which I hope to hear more about in Chapter 4.&lt;/p&gt;
+&lt;p&gt;We do want to stress, however, that most people, even many quite good readers,
+are unaware of the value of inspectional reading. They start a book on page one
+and plow steadily through it, without even reading the table of contents. They
+are thus faced with the task of achieving a superficial knowledge of the book
+at the same time that they are trying to understand it. That compounds the
+difficulty.&lt;/p&gt;
+&lt;h3 id=&#34;level-3-analytical-reading&#34;&gt;Level 3: Analytical Reading&lt;/h3&gt;
+&lt;p&gt;This is where things start to get really interesting from my point of view. I
+can&amp;rsquo;t think of a better summary than the one I found in this chapter:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Analytical reading is thorough reading, complete reading, or good reading —
+the best reading you can do.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Adler didn&amp;rsquo;t have much to say about analytical reading in this chapter. The
+goal of this chapter was to introduce the four levels of reading. The entirety
+of Part 2 of the book is dedicated to analytical reading.&lt;/p&gt;
+&lt;p&gt;For now, suffice to say that analytical reading is the type of reading I had in
+mind when I decided to read How to Read a Book. This is the level at which you
+extract significant meaning and understanding from an individual book.&lt;/p&gt;
+&lt;h3 id=&#34;level-4-syntopical-reading&#34;&gt;Level 4: Syntopical Reading&lt;/h3&gt;
+&lt;p&gt;If analytical reading is about extracting understanding from a single book,
+syntopical reading is about extracting understanding from a series of books
+that all relate to the same idea, field, discipline, etc.&lt;/p&gt;
+&lt;p&gt;When reading syntopically, the goal is to learn from different authors and then
+combine the understanding you gain from each book and synthesize it into
+something that is your own:&lt;/p&gt;
+&lt;p&gt;When reading syntopically, the reader reads many books, not just one, and
+places them in relation to one another and to a subject about which they all
+revolve.&lt;/p&gt;
+&lt;p&gt;Adler also points out that, done well, this can lead to insights and thoughts
+that aren&amp;rsquo;t present in any of the books you read but are something you came up
+with on your own:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;With the help of the books read, the syntopical reader is able to construct
+an analysis of the subject that may not be in any of the books.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Adler doesn&amp;rsquo;t explain the meaning of the word &amp;ldquo;syntopical,&amp;rdquo; but it strikes me
+that &amp;ldquo;syntopical&amp;rdquo; is an amalgamation of two words: &amp;ldquo;synthesize&amp;rdquo; and &amp;ldquo;topical.&amp;rdquo;
+Hence, syntopical reading is about synthesizing knowledge of an entire topic.&lt;/p&gt;
+&lt;h2 id=&#34;importance&#34;&gt;Importance&lt;/h2&gt;
+&lt;p&gt;Why is this chapter important? Because it allows us to build a system for
+reading.&lt;/p&gt;
+&lt;p&gt;Each level of reading serves a different purpose:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Level 1 reading is mechanical. It&amp;rsquo;s how we understand the words on the page.
+It&amp;rsquo;s the tool we use when we are physically reading the book in front of us.&lt;/li&gt;
+&lt;li&gt;Level 2 reading helps us decide whether a book is worth reading or what parts
+of a book are worth reading.&lt;/li&gt;
+&lt;li&gt;Level 3 reading is a tool for extracting understanding from a book. It&amp;rsquo;s how
+we ensure that we fully receive the message the author is communicating to
+us. We frequently jump between levels 1 and 3 while reading a book.&lt;/li&gt;
+&lt;li&gt;Level 4 reading helps us go even deeper in our understanding of a topic or
+field. By reading multiple sources and synthesizing our own opinions and
+understanding, we gain more insight into the thing we&amp;rsquo;re studying.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;takeaway&#34;&gt;Takeaway&lt;/h2&gt;
+&lt;p&gt;I took two main things away from this chapter.&lt;/p&gt;
+&lt;p&gt;The first takeaway is that there are four levels of reading, and each level is
+useful in a specific situation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Level 1: Elementary (or Mechanical) Reading&lt;/li&gt;
+&lt;li&gt;Level 2: Inspectional Reading&lt;/li&gt;
+&lt;li&gt;Level 3: Analytical Reading&lt;/li&gt;
+&lt;li&gt;Level 4: Syntopical Reading&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The second takeaway is the idea of a system for reading. I want to try
+outlining such a system here, with the understanding that my views will likely
+change as I make my way through this book.&lt;/p&gt;
+&lt;h3 id=&#34;a-system-for-reading&#34;&gt;A System for Reading&lt;/h3&gt;
+&lt;p&gt;Let&amp;rsquo;s assume that we want to learn a new topic deeply and well. Let&amp;rsquo;s also
+assume, for the sake of argument, that we&amp;rsquo;re limited to only books. Online
+courses, blog articles, etc. are off-limits for this exercise.&lt;/p&gt;
+&lt;p&gt;Where do we start?&lt;/p&gt;
+&lt;p&gt;The first problem we run into when learning something completely new is that we
+don&amp;rsquo;t know what we don&amp;rsquo;t know. A good solution to this problem is to find a
+book whose goal is to provide an introduction or an outline of the topic we&amp;rsquo;re
+interested in.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://fivebooks.com/&#34;&gt;Five Books&lt;/a&gt; is a good resource for finding good books by topic.
+For example, if you&amp;rsquo;re interested in learning about Leonardo da Vinci, &lt;a href=&#34;https://fivebooks.com/best-books/martin-kemp-leonardo-da-vinci/&#34;&gt;The
+best books on Leonardo da Vinci&lt;/a&gt; is probably a good place
+to start.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.wikipedia.org/&#34;&gt;Wikipedia&lt;/a&gt; is also a good place to find outlines by Googling for
+&amp;ldquo;&amp;lt;topic&amp;gt; outline Wikipedia.&amp;rdquo; This doesn&amp;rsquo;t always work, but when it does, it&amp;rsquo;s
+beneficial.&lt;/p&gt;
+&lt;p&gt;Eventually, you&amp;rsquo;ll have a list of candidate books. Now it&amp;rsquo;s time to apply
+inspectional reading to decide which one seems like the best place to start.
+You can check out the table of contents, the title of each chapter, the book&amp;rsquo;s
+index, etc., to get a high-level understanding of what the book is about.&lt;/p&gt;
+&lt;p&gt;Once you decide on a book, you iterate between level 3 and level 1 reading as
+you make your way through the book. As you read, try to generate a list of
+questions you want to answer and see if you can find answers in the book before
+looking elsewhere. This question-answer loop comes from &lt;a href=&#34;https://acesounderglass.com/2020/07/06/knowledge-bootstrapping-steps-v0-1/&#34;&gt;Knowledge
+Bootstrapping Steps v0.1&lt;/a&gt; by
+&lt;a href=&#34;https://twitter.com/acesounderglass&#34;&gt;@acesounderglass&lt;/a&gt; and has been very useful to me. I
+recommend trying it out for yourself.&lt;/p&gt;
+&lt;p&gt;When you finish the first book, check the bibliography for other relevant
+books, or go back to the list you developed before to find your next book.&lt;/p&gt;
+&lt;p&gt;At first, you&amp;rsquo;ll start with a near-empty world view about the topic you want to
+learn. You may know nothing at all about the topic. As you read different
+books, you update your world view with new information and ideas and an
+understanding of what you&amp;rsquo;re learning. This is the gist of syntopical reading.&lt;/p&gt;
+&lt;p&gt;After reading enough books, one day you will realize that you know a thing or
+two (but not everything) about this topic you previously knew nothing about.&lt;/p&gt;
+&lt;p&gt;In the future, I hope to refine these ideas into something more useful and
+concrete, but I think this is a reasonable first try at building a system for
+reading.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m very interested to hear your thoughts on this stuff, so feel free to hit me
+up on &lt;a href=&#34;https://twitter.com/jamesthinkshard&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
     </item>
     
     <item>
@@ -81,6 +776,112 @@ The four levels of reading are:
       <guid>http://superbigbrain.com/how-to-read-a-book-chapter-1-the-activity-and-art-of-reading/</guid>
       <description>The first chapter of How to Read a Book sets the context for the rest of the book: there are multiple ways to read a book, and some are more effective than others, depending on your goal.
 If your goal is to read for entertainment, the advice in How to Read a Book will not be useful to you. If your goal is to read for information, you&amp;rsquo;ll get more than you bargained for because Adler is talking about the third type of reading that requires much more effort: reading for understanding.</description>
+      <content:encoded>&lt;p&gt;The first chapter of &lt;em&gt;How to Read a Book&lt;/em&gt; sets the context for the rest of the
+book: there are multiple ways to read a book, and some are more effective than
+others, depending on your goal.&lt;/p&gt;
+&lt;p&gt;If your goal is to read for entertainment, the advice in &lt;em&gt;How to Read a Book&lt;/em&gt;
+will not be useful to you. If your goal is to read for information, you&amp;rsquo;ll get
+more than you bargained for because Adler is talking about the third type of
+reading that requires much more effort: reading for understanding.&lt;/p&gt;
+&lt;h2 id=&#34;key-ideas&#34;&gt;Key Ideas&lt;/h2&gt;
+&lt;h3 id=&#34;active-reading-vs-passive-reading&#34;&gt;Active Reading vs. Passive Reading&lt;/h3&gt;
+&lt;p&gt;Most people read books passively. Each word goes in one ear and out the other.
+At the end of the book, the reader may be left with a few major ideas that are
+somewhat useful, but they won&amp;rsquo;t have a deep understanding of what those ideas
+mean or how to apply them in another context. The reader won&amp;rsquo;t fully receive
+the message the author is trying to communicate to them.&lt;/p&gt;
+&lt;p&gt;An alternative approach is to read actively. Active reading requires you to
+think about what the author is saying and why. You have to ask yourself
+questions about what you’re reading. &amp;ldquo;What is the author&amp;rsquo;s point?&amp;rdquo; &amp;ldquo;Why is the
+author making this point?&amp;rdquo; &amp;ldquo;Do I agree with the author&amp;rsquo;s point? Why or why
+not?&amp;rdquo; &amp;ldquo;Why is this point important to me?&amp;rdquo; And the real kicker is that, because
+books can&amp;rsquo;t talk back, you have to answer these questions yourself.&lt;/p&gt;
+&lt;p&gt;This quote is a good summary of active reading in Adler&amp;rsquo;s own words:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Without external help of any sort, you go to work on the book. With nothing
+but the power of your own mind, you operate on the symbols before you in such
+a way that you gradually lift yourself from a state of understanding less to
+one of understanding more. Such eleveation, accomplished by the mind working
+on a book, is highly skilled reading, the kind of reading that a book which
+challenges your understanding deserves.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;reading-for-information-vs-reading-for-understanding&#34;&gt;Reading For Information vs. Reading For Understanding&lt;/h3&gt;
+&lt;p&gt;It is possible to know many things and understand none of them. Knowing does
+not equal understanding. This is Adler&amp;rsquo;s point when he talks about reading for
+information and reading for understanding. Adler also points out that there is
+a big difference between being widely-read and being well-read.&lt;/p&gt;
+&lt;p&gt;In Adler&amp;rsquo;s own words:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;To be informed is to know simply that something is the case. To be
+enlightened is to know, in addition, what it is all about: why it is the
+case, what its connections are with other facts, in what respects it is the
+same, in what respects it is different, and so forth.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Reading for understanding takes a different set of tools than reading for
+information. None of these tools were presented in the first chapter, but that
+is what the rest of the book is about.&lt;/p&gt;
+&lt;h3 id=&#34;learning-by-instruction-vs-learning-by-discovery&#34;&gt;Learning By Instruction vs. Learning By Discovery&lt;/h3&gt;
+&lt;p&gt;A simple way to think about this point is to think about the differences
+between learning from a lecturer (e.g., a school teacher or college professor)
+and learning from a book.&lt;/p&gt;
+&lt;p&gt;When learning from a lecturer, they will often direct the majority of the
+lecture for you. They may even draw conclusions for you. The problem is that,
+by doing so, they&amp;rsquo;ve robbed you of the opportunity to discover these things for
+yourself, and the process of discovery is what leads to more effective
+learning.&lt;/p&gt;
+&lt;p&gt;On the other hand, learning from a book requires more participation on the part
+of the reader. You have to engage with the book more deeply because it may not
+give you the answers you&amp;rsquo;re looking for in the way you&amp;rsquo;re looking for them.
+This reiterates the early quote about going to work on a book.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If, however, you ask a book a question, you must answer it yourself.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;importance&#34;&gt;Importance&lt;/h2&gt;
+&lt;p&gt;Why is this chapter important?&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m sure many of you have had the experience of staying up late the night
+before an exam trying to cram a bunch of facts into your brain. I&amp;rsquo;m also sure
+that worked out for some of you, but it went horribly for me. In hindsight, I&amp;rsquo;d
+failed the test before I walked in the door because I was looking for
+information when I should have been looking for understanding.&lt;/p&gt;
+&lt;p&gt;And that&amp;rsquo;s why this chapter is important: it points out the difference between
+information and understanding. They are not the same thing, and understanding
+is strictly better than information. You can have information without having
+understanding, but you can not have understanding without information.
+Understanding is a superset of information. &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;I forget where I learned this, but information vs. understanding is a lot like
+the model of decisions vs. outcomes. It&amp;rsquo;s possible to make a good decision that
+has a bad outcome, and it&amp;rsquo;s possible to make a bad decision that has a good
+outcome. Knowing whether you’re making good decisions, regardless of the
+outcome, is an important skill. That thought has stuck with me and has become
+one of my core mental models. In time, I expect the idea of information vs.
+understanding will be elevated to a similar level of importance.&lt;/p&gt;
+&lt;h2 id=&#34;takeaway&#34;&gt;Takeaway&lt;/h2&gt;
+&lt;p&gt;I took three main things away from this chapter:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Active reading leads to better understanding. Read actively. The rest of the
+book will teach you how.&lt;/li&gt;
+&lt;li&gt;Challenge yourself by answering your own questions without help when
+possible. (But don&amp;rsquo;t get stuck on something forever.)&lt;/li&gt;
+&lt;li&gt;Know the difference between being widely-read and well-read. We want to be
+well-read.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;While reading this chapter and thinking about it afterward, I remembered &lt;a href=&#34;https://fs.blog/2013/04/the-work-required-to-have-an-opinion/&#34;&gt;The
+Work Required to Have an Opinion&lt;/a&gt;. It&amp;rsquo;s an idea that I
+personally think is great and something I&amp;rsquo;ll talk about more in the future.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in having a conversation about &lt;em&gt;How to Read a Book&lt;/em&gt; or
+anything else, please hit me up on &lt;a href=&#34;https://twitter.com/jamesthinkshard&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;For the sake of completeness, it is absolutely possible to have
+understanding without having &lt;em&gt;complete&lt;/em&gt; knowledge. Not having complete
+knowledge of a subject is normal and expected. We will never be able to learn
+everything. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</content:encoded>
     </item>
     
     <item>
@@ -90,6 +891,24 @@ If your goal is to read for entertainment, the advice in How to Read a Book will
       
       <guid>http://superbigbrain.com/up-next-how-to-read-a-book/</guid>
       <description>I&amp;rsquo;ve always had a preference for reading books over listening to lectures. I find lectures to be slow and boring, and books allow me to choose my own pace. With books, I can also skip around and skim and jump over sections that don&amp;rsquo;t interest me and don&amp;rsquo;t seem relevant. That&amp;rsquo;s much more difficult to do with lectures, though it&amp;rsquo;s easier nowadays with many lectures being recorded and made available online.</description>
+      <content:encoded>&lt;p&gt;I&amp;rsquo;ve always had a preference for reading books over listening to lectures. I
+find lectures to be slow and boring, and books allow me to choose my own pace.
+With books, I can also skip around and skim and jump over sections that don&amp;rsquo;t
+interest me and don&amp;rsquo;t seem relevant. That&amp;rsquo;s much more difficult to do with
+lectures, though it&amp;rsquo;s easier nowadays with many lectures being recorded and
+made available online.&lt;/p&gt;
+&lt;p&gt;Books have always had one major problem for me, though: I feel like I don&amp;rsquo;t
+remember much of what I read. I feel like I&amp;rsquo;m lucky to pick up a few high-level
+ideas from a book before moving on to the next one. And it&amp;rsquo;s not because the
+books are boring! While reading, I&amp;rsquo;m amazed at all of the insights the author
+is providing. But I forget them as soon as I close the book.&lt;/p&gt;
+&lt;p&gt;Given my goal of learning more and thinking better, a book on how to read
+better seems like a good place to start, and no book comes more highly
+recommended by the Internet than Mortimer Adler&amp;rsquo;s “&lt;a href=&#34;https://smile.amazon.com/How-Read-Book-Classic-Intelligent/dp/0671212095/&#34;&gt;How to Read a
+Book&lt;/a&gt;.”&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll publish my notes and thoughts on each chapter as I make my way through the
+book. If you want to talk about it, hit me up on &lt;a href=&#34;https://twitter.com/jamesthinkshard&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
     </item>
     
     <item>
@@ -101,6 +920,64 @@ If your goal is to read for entertainment, the advice in How to Read a Book will
       <description>I feel like I&amp;rsquo;ve been duped.
 In 2013, I moved to Silicon Valley and started working as a software engineer to do important work that makes the world a better place. Over the next seven years, I worked at different companies on different products and projects, but they all had one thing in common: I don&amp;rsquo;t feel like my work mattered.
 Now that&amp;rsquo;s not to say that no one in Silicon Valley is doing useful work.</description>
+      <content:encoded>&lt;p&gt;I feel like I&amp;rsquo;ve been duped.&lt;/p&gt;
+&lt;p&gt;In 2013, I moved to Silicon Valley and started working as a software engineer
+to do important work that makes the world a better place. Over the next seven
+years, I worked at different companies on different products and projects, but
+they all had one thing in common: I don&amp;rsquo;t feel like my work mattered.&lt;/p&gt;
+&lt;p&gt;Now that&amp;rsquo;s not to say that no one in Silicon Valley is doing useful work.
+Self-driving cars have the potential to save tens of thousands of lives every
+year in the U.S. alone. Remote communication tools like video conferencing and
+instant messaging have been literal lifesavers this year because of COVID.
+Financial technology companies are making financing available to small
+businesses that have historically been ignored by large banks. These things are
+critical. All I&amp;rsquo;m saying is that my work was such a small cog in the machine
+that it felt meaningless to me.&lt;/p&gt;
+&lt;p&gt;I left my most recent job in May of 2020, and since then, I&amp;rsquo;ve been relaxing
+and thinking about what I want to do next. The idea of going back to working on
+tech products that largely serve tech problems and dealing with the overload of
+meetings and politics and solutions-in-search-of-problems and so-on is
+unappealing to me. And so here I am, still wanting to make the world a better
+place but without any obvious means to do so.&lt;/p&gt;
+&lt;p&gt;What skills or knowledge do I have that make me uniquely qualified to achieve
+such an audacious and arrogant goal? What do I have to offer that would
+contribute to the world around me? In the wise words of Hank Moody, &amp;ldquo;Fuck if I
+know, dude.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;But I have an idea. Actually, calling it an idea is too generous. It&amp;rsquo;s more of
+a thought, really. An unfounded, uneducated, intuition-based guess as to what&amp;rsquo;s
+wrong with the world. But here it is anyway: Many of the problems in the world,
+in one way or another, are the result of a lack of knowledge and understanding
+or poor thinking. More knowledge and better thinking may lead to good
+solutions.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We cannot solve our problems with the same thinking we used when we created
+them. — Albert Einstein&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Now ideas are great and all, but what matters is what we do with them. An idea
+that sits in your back pocket is useful to no one. So what can we do with the
+idea that what the world needs is more knowledge and better thinking?&lt;/p&gt;
+&lt;p&gt;Again, I have an idea. And this one is more of an actual idea than a few pithy
+words thrown together into a sentence.&lt;/p&gt;
+&lt;p&gt;What if I try my very best to improve the quality and quantity of my own
+knowledge and thinking? And what if I share what I&amp;rsquo;ve learned with others? Will
+they then be able to take their increased knowledge and improved thinking out
+into the world and do something useful? I think so. I hope so. Maybe. Honestly,
+I don&amp;rsquo;t know. But it doesn&amp;rsquo;t seem like a crazy idea to me, so it&amp;rsquo;s worth a
+shot.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The pen is mightier than the sword. — Edward Bulwer-Lytton&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;That&amp;rsquo;s the reason I chose to start writing Big Brain Ideas: to learn more,
+think better, try to make the world a better place along the way. And, in all
+likelihood, I will fail. I&amp;rsquo;ll write for a bit, and no one will read it, and
+ultimately it won&amp;rsquo;t matter. But I figure, even in that happens, improving my
+own thinking and ability to learn new things is useful in its own right.&lt;/p&gt;
+&lt;p&gt;And so I will leave you for now with the hope that I am using my time wisely
+and a fun, childish quip:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Sticks and stones may break my bones, but words can change the world.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content:encoded>
     </item>
     
   </channel>
